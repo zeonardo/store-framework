@@ -1,7 +1,6 @@
 {
   "store.product": {
     "children": [
-      "flex-layout.row#main",
       "breadcrumb",
       "flex-layout.row#main"
     ]
