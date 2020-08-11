@@ -6,7 +6,7 @@
       "info-card#button-left",
       "info-card#rethink",
       "flex-layout.row",
-      "shelf#home"
+      "shelf"
     ]
   },
   "rich-text": {
